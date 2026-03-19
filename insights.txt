@@ -1,0 +1,8 @@
+1. Which item made the most money?
+- Jacket: $300
+
+2. Which items rely on volume vs margin?
+- Caps rely on volume, while Jackets rely on margin.
+
+3. What would you stock more?
+- Jackets should be prioritized in inventory due to their high profit margin, making them the most efficient revenue drivers per unit sold.
