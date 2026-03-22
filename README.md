@@ -32,7 +32,7 @@ ii. Revenue vs Cost chart-
 Python, Pandas, Matplotlib
 
 
-📁 Project Structure
+📁 Project Structure:
 data/
 analyzer.py
 analyzer_pandas.py
